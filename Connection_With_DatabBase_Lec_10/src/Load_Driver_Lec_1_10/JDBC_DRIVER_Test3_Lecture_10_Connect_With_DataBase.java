@@ -1,7 +1,8 @@
+package Load_Driver_Lec_1_10;
+
 import java.sql.Driver;
 import java.sql.DriverManager;
 import java.util.*;
-import  java.sql.*;
 
 //Using System Properties
 
