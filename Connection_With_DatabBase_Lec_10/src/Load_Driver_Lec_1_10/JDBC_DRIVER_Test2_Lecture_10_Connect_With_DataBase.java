@@ -2,6 +2,8 @@ import java.sql.*;
 import java.util.*;
 import  sun.jdbc.odbc.*;
 
+//Using DriverManager
+
 public class JDBC_DRIVER_Test2_Lecture_10_Connect_With_DataBase {
     public static void main(String[] args) throws SQLException {
 

@@ -1,7 +1,9 @@
 import java.sql.*;
 import java.util.*;
 
-public class JDBC_DRIVER_Test_Lecture_10_Connect_With_DataBase {
+//Using Driver
+
+public class JDBC_DRIVER_Test1_Lecture_10_Connect_With_DataBase {
     public static void main(String[] args) {
 
         // Using Class.forName with MySQL JDBC Driver
