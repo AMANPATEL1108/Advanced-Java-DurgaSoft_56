@@ -1,4 +1,4 @@
-package Connection_with_DataBase_Lec_11__;
+package Connection_with_DataBase_Lec_11_20;
 
 import sun.jdbc.odbc.JdbcOdbcDriver;
 
